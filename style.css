@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+}
+
+body {
+    /* background: linear-gradient(to top, rgb(14, 28, 63), rgb(110, 32, 146), rgb(233, 148, 148)); */
+    background-image: url(https://a-static.besthdwallpaper.com/abstract-background-wallpaper-2560x1600-80555_7.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: azure;
+
+}
+
+#titulo1 {
+margin-top: 15%;
+font-size: 150%;
+}
+
+header p {
+    padding: 10px;
+    color: azure;
+}
+
+#login-container {
+    padding: 20px;
+}
+/*---------------------form - Cadastro -----------------*/
+input[type=email] {
+    padding: 8px 40px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+input[type=password] {
+    padding: 8px 40px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+/* input[type=submit]  */
+button[type=submit] {
+    padding: 10px 40px;
+    background: rgb(238, 241, 19);
+    border-radius: 5%;
+    border: #ccc;
+    font-style: italic;
+    font-size:medium;
+}
+
+#cadastro-container p { 
+    color: beige;
+    margin-bottom: 1.4%;
+}
+
+.button button {
+    padding: 10px 40px;
+    background: rgb(238, 241, 19);
+    border-radius: 5%;
+    border: #ccc;
+    font-style: italic;
+    font-size:medium;
+    
+}
+
+
+
+
+
+
+/* Footer */
+
+.rodape { 
+    color: beige;
+    margin-top: 200px;
+}
+
+h5 { 
+    color: beige;
+    margin-bottom: 10px;
+}
